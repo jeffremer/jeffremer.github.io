@@ -94,23 +94,28 @@ a {
 /* line 32, ../src/screen.scss */
 ul {
   margin-left: 1em;
+  list-style-type: circle;
 }
-/* line 34, ../src/screen.scss */
-ul li p, ul li blockquote {
+/* line 37, ../src/screen.scss */
+ul li p {
   font-size: 18px;
 }
-
 /* line 40, ../src/screen.scss */
+ul li blockquote p {
+  font-size: 16px;
+}
+
+/* line 47, ../src/screen.scss */
 #header h1 {
   font-size: 48px;
 }
 
-/* line 45, ../src/screen.scss */
+/* line 52, ../src/screen.scss */
 #links {
   float: right;
   display: inline;
 }
-/* line 48, ../src/screen.scss */
+/* line 55, ../src/screen.scss */
 #links li {
   display: inline;
   margin-right: 10px;
