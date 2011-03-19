@@ -94,7 +94,7 @@ a {
 /* line 32, ../src/screen.scss */
 ul {
   margin-left: 1em;
-  list-style-type: circle;
+  list-style-type: disc;
 }
 /* line 37, ../src/screen.scss */
 ul li p {
