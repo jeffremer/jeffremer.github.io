@@ -1,14 +1,11 @@
 ---
 layout: notes
-title: Code Conf Notes
+title: Tinker Bell being a Great Tools Fairy
 ---
-
-Notes - 20110409
-===============================================================================
 
 # Tinker Bell being a Great Tools Fairy
 
-## Dr. Nic Williams (10:30am)
+### Dr. Nic Williams (Saturday, 10:30am)
 
 # Tools, & Tool Tools
 
@@ -60,27 +57,3 @@ You can write documentation, that's great.  But if you can write tools to encaps
 
 "no one else can help" - TinkerBell
 "embracing constraints" - MacGuyver theme
-
-
-# Metrics, Metrics Everywhere
-
-## Coda Hale @Coda (Yammer) (11:15am)
-
-# Metrics
-
-Making better decisions using numbers.  Use code to create business value.
-
-Generating business value as a developer:
-
-* Shipping new feature
-* Improving existing features
-* Fewer bugs
-* Better site (don't piss off users)
-* Make future changes easier
-* TDD
-
-We like money, business value means money, code means business value when it runs - not when we write it.  People pay for the functionality.
-
-## Why Measure?
-
-Map != territory.  Perceptions != reality.  We can't know something about our code until we measure it.  And it only matters if we measure the right thing, in the right place. PRODUCTION.
