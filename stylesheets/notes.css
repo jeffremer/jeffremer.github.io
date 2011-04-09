@@ -1,0 +1,42 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 6, ../src/notes.scss */
+body {
+  font-family: Georgia;
+  color: #333;
+}
+
+/* line 11, ../src/notes.scss */
+#header, #main, #footer {
+  width: 800px;
+  margin: 20px auto;
+}
+
+/* line 16, ../src/notes.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 20, ../src/notes.scss */
+ul {
+  margin-left: 1em;
+  list-style-type: disc;
+}
+
+/* line 26, ../src/notes.scss */
+#header h1 {
+  font-size: 48px;
+}
+
+/* line 31, ../src/notes.scss */
+#links {
+  float: right;
+  display: inline;
+}
+/* line 34, ../src/notes.scss */
+#links li {
+  display: inline;
+  margin-right: 10px;
+}

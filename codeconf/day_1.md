@@ -1,6 +1,10 @@
+---
+layout: notes
+title: Code Conf Notes
+---
+
 Notes - 20110409
 ===============================================================================
-
 
 # Tinker Bell being a Great Tools Fairy
 
@@ -79,4 +83,4 @@ We like money, business value means money, code means business value when it run
 
 ## Why Measure?
 
-Map != territory.  Perceptions != reality.  We can't know something about our code until we measure it.
+Map != territory.  Perceptions != reality.  We can't know something about our code until we measure it.  And it only matters if we measure the right thing, in the right place. PRODUCTION.
