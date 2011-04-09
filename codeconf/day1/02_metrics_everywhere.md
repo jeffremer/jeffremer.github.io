@@ -7,6 +7,8 @@ title: Metrics, Metrics Everywhere
 
 ### Coda Hale @Coda (Yammer) (Saturday, 11:15am)
 
+[Slides Here](http://codahale.com/codeconf-2011-04-09-metrics-metrics-everywhere.pdf).
+
 # Metrics
 
 Making better decisions using numbers.  Use code to create business value.
