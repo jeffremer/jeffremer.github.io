@@ -3,7 +3,7 @@ layout: notes
 title: Assumptions Are Awesome
 ---
 
-# Metrics, Metrics Everywhere
+# Assumptions Are Awesome
 
 ### Jonathan Rentzsch (Saturday, 12:15am)
 
