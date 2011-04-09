@@ -5,7 +5,7 @@ title: Assumptions Are Awesome
 
 # Assumptions Are Awesome
 
-### Jonathan Rentzsch (Saturday, 12:15am)
+### Jonathan Rentzsch (Saturday, 12:15pm)
 
 Known for:
 
