@@ -12,15 +12,17 @@ Ruby (Sinatra, Rails), Javascript (browser, mobile, node.js), and Objective C (i
 Here is a small sample of some recent projects.
 
 * [Distiller](https://github.com/jeffremer/Distiller)
-	> A javascript aware content proxy.  This node.js based, (somewhat) RESTful API downloads the 	
-	> content from a URL and runs given portion of javascript on the contents - assign your 
-	> results to a special variable to output the transformation.
-	
-	> [Distill.me](http://distill.me) is running on [Duostack](http://duostack.com).
+
+> A javascript aware content proxy.  This node.js based, (somewhat) RESTful API downloads the 	
+> content from a URL and runs given portion of javascript on the contents - assign your 
+> results to a special variable to output the transformation.
+
+> [Distill.me](http://distill.me) is running on [Duostack](http://duostack.com).
 	 
 * [Regression Steps](https://github.com/jeffremer/Regression-Steps)
-	> A Ruby class, Sinatra web app, and command line tool for retrieving and formatting a tab-delimited regression test
-	> checklist from Scrumy user stories suitable for pasting into a spreadsheet.
-	
-	> A live example of the Sinatra web app is [running here](http://rstep.heroku.com) on [Heroku](http://heroku.com).
+
+> A Ruby class, Sinatra web app, and command line tool for retrieving and formatting a tab-delimited regression test
+> checklist from Scrumy user stories suitable for pasting into a spreadsheet.
+
+> A live example of the Sinatra web app is [running here](http://rstep.heroku.com) on [Heroku](http://heroku.com).
 	
