@@ -11,6 +11,8 @@ date: 2011-04-09-14:45
 
 ### Jacob Kaplan Ross (Django) (Saturday, 2:45pm)
 
+[Slides here](http://www.slideshare.net/jacobian/writing-great-documentation-codeconf-2011).
+
 Django 66k lines of Python, 75k lines of English. You get more words than code.  If there is one thing that endure past Django, it is the documentation culture.
 
 * Why read documentation?
