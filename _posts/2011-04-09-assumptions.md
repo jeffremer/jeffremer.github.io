@@ -1,6 +1,10 @@
 ---
 layout: notes
 title: Assumptions Are Awesome
+categories: 
+- codeconf2011
+- codeconf2011-day1
+date: 2011-04-09-12:15
 ---
 
 # Assumptions Are Awesome

@@ -1,6 +1,10 @@
 ---
 layout: notes
 title: Hacking Space Exploration
+categories: 
+- codeconf2011
+- codeconf2011-day1
+date: 2011-04-09-14:00
 ---
 
 # Hacking Space Exploration

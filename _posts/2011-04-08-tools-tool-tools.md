@@ -1,6 +1,10 @@
 ---
 layout: notes
 title: Tinker Bell being a Great Tools Fairy
+categories: 
+- codeconf2011
+- codeconf2011-day1
+date: 2011-04-09-10:30
 ---
 
 # Tinker Bell being a Great Tools Fairy
