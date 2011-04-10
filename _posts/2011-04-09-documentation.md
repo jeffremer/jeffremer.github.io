@@ -11,7 +11,7 @@ date: 2011-04-09-14:45
 
 ### Jacob Kaplan Ross (Django) (Saturday, 2:45pm)
 
-Django has 360,000 words in it.  You get more words than code.  If there is one thing that endure past Django, it is the documentation culture.
+Django 66k lines of Python, 75k lines of English  You get more words than code.  If there is one thing that endure past Django, it is the documentation culture.
 
 * Why read documentation?
 * Who should write documentation?
