@@ -2,120 +2,73 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 14, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, font, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  font-weight: inherit;
-  font-style: inherit;
-  font-size: 100%;
-  font-family: inherit;
-  vertical-align: baseline;
-}
-
-/* line 17, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 6, ../src/screen.scss */
 body {
-  line-height: 1;
-  color: black;
-  background: white;
-}
-
-/* line 19, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-ol, ul {
-  list-style: none;
-}
-
-/* line 21, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-table {
-  border-collapse: separate;
-  border-spacing: 0;
-  vertical-align: middle;
-}
-
-/* line 23, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-caption, th, td {
-  text-align: left;
-  font-weight: normal;
-  vertical-align: middle;
-}
-
-/* line 25, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-q, blockquote {
-  quotes: "" "";
-}
-/* line 96, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-q:before, q:after, blockquote:before, blockquote:after {
-  content: "";
-}
-
-/* line 27, ../../../../Library/Ruby/Gems/1.8/gems/compass-0.10.6/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
-a img {
-  border: none;
-}
-
-/* line 8, ../src/screen.scss */
-body {
-  font-family: Georgia;
-  color: #333;
+  background-color: #f2f2f2;
+  color: #3c3c3c;
+  font-size: 62.5%;
+  font-family: Palatino, Georgia, serif;
 }
 
 /* line 13, ../src/screen.scss */
 #header, #main, #footer {
-  width: 600px;
+  width: 720px;
   margin: 20px auto;
 }
 
 /* line 18, ../src/screen.scss */
-p {
-  font-size: 24px;
-  margin-bottom: 20px;
-  text-align: left;
+h1 {
+  font-size: 3.2em;
+}
+
+/* line 21, ../src/screen.scss */
+h2 {
+  font-size: 2.6em;
 }
 
 /* line 24, ../src/screen.scss */
-small {
-  font-size: 18px;
+h3 {
+  font-size: 1.8em;
 }
 
-/* line 28, ../src/screen.scss */
+/* line 27, ../src/screen.scss */
+h4 {
+  font-size: 1.6em;
+}
+
+/* line 31, ../src/screen.scss */
+p, li {
+  font-size: 1.6em;
+  line-height: 1.65em;
+}
+
+/* line 36, ../src/screen.scss */
+p {
+  line-height: 1.7em;
+}
+
+/* line 40, ../src/screen.scss */
 a {
   text-decoration: none;
 }
 
-/* line 32, ../src/screen.scss */
+/* line 44, ../src/screen.scss */
 ul {
   margin-left: 1em;
   list-style-type: disc;
 }
-/* line 37, ../src/screen.scss */
-ul li p {
-  font-size: 18px;
-}
-/* line 40, ../src/screen.scss */
-ul li blockquote p {
-  font-size: 16px;
-}
 
-/* line 47, ../src/screen.scss */
+/* line 50, ../src/screen.scss */
 #header h1 {
   font-size: 48px;
 }
 
-/* line 52, ../src/screen.scss */
+/* line 55, ../src/screen.scss */
 #links {
   float: right;
   display: inline;
 }
-/* line 55, ../src/screen.scss */
+/* line 58, ../src/screen.scss */
 #links li {
   display: inline;
   margin-right: 10px;

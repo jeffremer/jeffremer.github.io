@@ -3,26 +3,38 @@
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 
-@import "compass/reset";
-
 body {
-    font-family: Georgia;
-    color: #333;
+	background-color:#f2f2f2;
+	color:#3c3c3c;
+	font-size:62.5%;
+	font-family:Palatino, Georgia, serif;
 }
 
 #header, #main, #footer {
-    width: 600px;
+    width: 720px;
     margin: 20px auto;
 }
 
-p {
-    font-size: 24px;
-    margin-bottom: 20px;
-    text-align: left;
+h1 {
+	font-size: 3.2em;
+}
+h2 {
+	font-size: 2.6em;
+}
+h3 {
+	font-size: 1.8em;
+}
+h4 {
+	font-size: 1.6em;
 }
 
-small {
-	font-size: 18px;
+p, li {
+	font-size: 1.6em;
+	line-height: 1.65em;
+}
+
+p {
+	line-height: 1.7em;
 }
 
 a {
@@ -32,15 +44,6 @@ a {
 ul {
 	margin-left: 1em;
 	list-style-type: disc;
-	li {
-		
-		p {
-			font-size: 18px;
-		}
-		blockquote p {
-			font-size: 16px;
-		}		
-	}		
 }
 
 #header {

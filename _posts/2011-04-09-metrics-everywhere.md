@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: posts
 title: Metrics, Metrics Everywhere
 categories: 
 - codeconf2011

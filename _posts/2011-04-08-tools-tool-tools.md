@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: posts
 title: Tinker Bell being a Great Tools Fairy
 categories: 
 - codeconf2011

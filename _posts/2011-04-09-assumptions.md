@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: posts
 title: Assumptions Are Awesome
 categories: 
 - codeconf2011

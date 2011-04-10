@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: posts
 title: Your Community is your Best Features
 categories: 
 - codeconf2011
@@ -11,9 +11,7 @@ date: 2011-04-09-16:15
 
 ### Gina Trapani (Lifehacker, Todo.txt, Thinkup) (Saturday, 4:15pm)
 
-Open source software thrives on collaboration.  It's not just pushing code with a special license.
-
-[Some Related Links](http://ginatrapani.com/codeconf).
+Open source software thrives on collaboration.  It's not just pushing code with a special license. [Some helpful links here](http://ginatrapani.org/codeconf/).
 
 Todo.txt took off when someone volunteered to help get it versioned. Moments of goodwill, sharing, help, and collaboration will drive a project. You want these moments.          
 

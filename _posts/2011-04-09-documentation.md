@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: posts
 title: Writing Great Documentation
 categories: 
 - codeconf2011

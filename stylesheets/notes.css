@@ -4,38 +4,71 @@
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
 /* line 6, ../src/notes.scss */
 body {
-  font-family: Georgia;
-  color: #333;
+  background-color: #f2f2f2;
+  color: #3c3c3c;
+  font-size: 62.5%;
+  font-family: Palatino, Georgia, serif;
 }
 
-/* line 11, ../src/notes.scss */
+/* line 13, ../src/notes.scss */
 #header, #main, #footer {
-  width: 800px;
+  width: 720px;
   margin: 20px auto;
 }
 
-/* line 16, ../src/notes.scss */
+/* line 18, ../src/notes.scss */
+h1 {
+  font-size: 3.2em;
+}
+
+/* line 21, ../src/notes.scss */
+h2 {
+  font-size: 2.6em;
+}
+
+/* line 24, ../src/notes.scss */
+h3 {
+  font-size: 1.8em;
+}
+
+/* line 27, ../src/notes.scss */
+h4 {
+  font-size: 1.6em;
+}
+
+/* line 31, ../src/notes.scss */
+p, li {
+  font-size: 1.6em;
+  line-height: 1.65em;
+}
+
+/* line 36, ../src/notes.scss */
+p {
+  line-height: 1.7em;
+}
+
+/* line 40, ../src/notes.scss */
 a {
   text-decoration: none;
 }
 
-/* line 20, ../src/notes.scss */
+/* line 44, ../src/notes.scss */
 ul {
   margin-left: 1em;
   list-style-type: disc;
 }
 
-/* line 26, ../src/notes.scss */
+/* line 50, ../src/notes.scss */
 #header h1 {
   font-size: 48px;
 }
 
-/* line 31, ../src/notes.scss */
+/* line 55, ../src/notes.scss */
 #links {
   float: right;
   display: inline;
 }
-/* line 34, ../src/notes.scss */
+/* line 58, ../src/notes.scss */
 #links li {
   display: inline;
   margin-right: 10px;

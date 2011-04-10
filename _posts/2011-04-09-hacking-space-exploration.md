@@ -1,5 +1,5 @@
 ---
-layout: notes
+layout: posts
 title: Hacking Space Exploration
 categories: 
 - codeconf2011
