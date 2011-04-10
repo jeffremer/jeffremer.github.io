@@ -4,7 +4,7 @@ title: Ethics of Abandoning Software
 categories: 
 - codeconf2011
 - codeconf2011-day2
-date: 2011-04-09-11:15
+date: 2011-04-10-11:15
 ---
 
 # Ethics of Abandoning Software

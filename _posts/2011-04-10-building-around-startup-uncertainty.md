@@ -4,7 +4,7 @@ title: Engineering Around Startup Uncertainty
 categories: 
 - codeconf2011
 - codeconf2011-day2
-date: 2011-04-09-13:30
+date: 2011-04-10-13:30
 ---
 
 # Engineering Around Startup Uncertainty

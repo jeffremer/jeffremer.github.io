@@ -4,7 +4,7 @@ title: Our Best Practices Are Killing Us
 categories: 
 - codeconf2011
 - codeconf2011-day2
-date: 2011-04-09-15:00
+date: 2011-04-10-15:00
 ---
 
 # Our Best Practices Are Killing Us

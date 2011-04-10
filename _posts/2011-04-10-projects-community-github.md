@@ -4,7 +4,7 @@ title: Projects, Community, and Github
 categories: 
 - codeconf2011
 - codeconf2011-day2
-date: 2011-04-09-10:15
+date: 2011-04-10-10:15
 ---
 
 # Projects, Community, and Github

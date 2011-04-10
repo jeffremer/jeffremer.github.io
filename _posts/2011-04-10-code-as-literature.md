@@ -4,7 +4,7 @@ title: Code as Literature
 categories: 
 - codeconf2011
 - codeconf2011-day2
-date: 2011-04-09-14:15
+date: 2011-04-10-14:15
 ---
 
 # Code as Literature

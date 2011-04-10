@@ -4,7 +4,7 @@ title: Farmville on iOS
 categories: 
 - codeconf2011
 - codeconf2011-day2
-date: 2011-04-09-12:00
+date: 2011-04-10-12:00
 ---
 
 # Farmville on iOS
