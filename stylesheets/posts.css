@@ -1,0 +1,75 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 6, ../src/posts.scss */
+body {
+  background-color: #f2f2f2;
+  color: #3c3c3c;
+  font-size: 62.5%;
+  font-family: Palatino, Georgia, serif;
+}
+
+/* line 13, ../src/posts.scss */
+#header, #main, #footer {
+  width: 720px;
+  margin: 20px auto;
+}
+
+/* line 18, ../src/posts.scss */
+h1 {
+  font-size: 3.2em;
+}
+
+/* line 21, ../src/posts.scss */
+h2 {
+  font-size: 2.6em;
+}
+
+/* line 24, ../src/posts.scss */
+h3 {
+  font-size: 1.8em;
+}
+
+/* line 27, ../src/posts.scss */
+h4 {
+  font-size: 1.6em;
+}
+
+/* line 31, ../src/posts.scss */
+p, li {
+  font-size: 1.6em;
+  line-height: 1.65em;
+}
+
+/* line 36, ../src/posts.scss */
+p {
+  line-height: 1.7em;
+}
+
+/* line 40, ../src/posts.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 44, ../src/posts.scss */
+ul {
+  margin-left: 1em;
+  list-style-type: disc;
+}
+
+/* line 50, ../src/posts.scss */
+#header h1 {
+  font-size: 48px;
+}
+
+/* line 55, ../src/posts.scss */
+#links {
+  float: right;
+  display: inline;
+}
+/* line 58, ../src/posts.scss */
+#links li {
+  display: inline;
+  margin-right: 10px;
+}
