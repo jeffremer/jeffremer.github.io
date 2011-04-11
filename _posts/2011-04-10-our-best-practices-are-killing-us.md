@@ -54,7 +54,7 @@ All are useful, but not absolute.
 
 # What Happen's Next?
 
-## Specifity
+## Specificity
 
 ### The Simple Version
 
