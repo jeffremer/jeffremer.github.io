@@ -3,7 +3,7 @@ layout: posts
 title: Code Conf Notes
 ---
 
-# Code Conf Notes
+# Code Conf 2011 Notes
 
 My notes from [CodeConf2011](http://codeconf.com/).  Full coverage on [Lanyrd](http://lanyrd.com/2011/codeconf/).
 
