@@ -16,5 +16,7 @@ Summary on [TheChangelog.com](http://thechangelog.com/post/4481277637/codeconf-s
 
 ## Day 2
 
+Summary on [TheChangelog.com](http://thechangelog.com/post/4507882708/codeconf-sunday-summary).
+
 {% for post in site.categories.codeconf2011-day2 %}* [{{post.title}}]({{post.url}})
 {% endfor %}
