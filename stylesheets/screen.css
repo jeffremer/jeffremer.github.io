@@ -48,27 +48,35 @@ p {
 }
 
 /* line 40, ../src/screen.scss */
+pre code {
+  padding: 1em;
+  border: 1px solid #CECECE;
+  background-color: white;
+  font-size: 1.3em;
+}
+
+/* line 47, ../src/screen.scss */
 a {
   text-decoration: none;
 }
 
-/* line 44, ../src/screen.scss */
+/* line 51, ../src/screen.scss */
 ul {
   margin-left: 1em;
   list-style-type: disc;
 }
 
-/* line 50, ../src/screen.scss */
+/* line 57, ../src/screen.scss */
 #header h1 {
   font-size: 48px;
 }
 
-/* line 55, ../src/screen.scss */
+/* line 62, ../src/screen.scss */
 #links {
   float: right;
   display: inline;
 }
-/* line 58, ../src/screen.scss */
+/* line 65, ../src/screen.scss */
 #links li {
   display: inline;
   margin-right: 10px;
