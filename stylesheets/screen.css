@@ -48,7 +48,7 @@ p {
 }
 
 /* line 40, ../src/screen.scss */
-pre code {
+pre {
   padding: 1em;
   border: 1px solid #CECECE;
   background-color: white;
