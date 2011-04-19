@@ -11,7 +11,7 @@ Ruby (Sinatra, Rails), Javascript (browser, mobile, node.js), and Objective C (i
 		
 Here is a small sample of some recent projects.
 
-* [Scrumy Client](jeffremer.com/scrumy-client)
+* [Scrumy Client](http://jeffremer.com/scrumy-client)
 
 > A Ruby REST client wrapper for the Scrumy REST API.  This is mostly an experiment in
 > metaprogramming.  The REST resources are specified in a DSL and the library imports
