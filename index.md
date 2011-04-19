@@ -13,11 +13,10 @@ Here is a small sample of some recent projects.
 
 * [Scrumy Client](http://jeffremer.com/scrumy-client)
 
-> A Ruby REST client wrapper for the Scrumy REST API.  This is mostly an experiment in
-> metaprogramming.  The REST resources are specified in a DSL and the library imports
-> and dynamically create and instantiate classes and objects of the right type depending
-> on the requested resource.
-
+> A Ruby REST client wrapper for the [Scrumy](http://apidoc.scrumy.com) REST API.
+> This is mostly an experiment in metaprogramming.  The REST resources are specified
+> in a DSL. The library imports the DSL, then dynamically creates and instantiate classes
+> and objects of the right type depending on the requested resource.
 
 * [Distiller](https://github.com/jeffremer/Distiller)
 
