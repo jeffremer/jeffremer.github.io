@@ -1,0 +1,57 @@
+
+@import "blueprint/scaffolding";
+@import "blueprint/fancy-type";
+
+@import "compass/css3";
+@import "compass/utilities/general/min";
+
+body.bp {
+  @include blueprint-typography(true);
+  @include fancy-type;
+  @include blueprint-utilities;
+  @include blueprint-debug;
+  @include blueprint-interaction;
+
+  background-color: $blueprint-background-color;
+
+  .inset {
+	@include box-shadow(rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset);
+	@include min-height(230px);
+
+	&.dark {
+	  background-color: #202020;
+	}
+	&.round {
+		@include border-radius($default-border-radius)
+	}
+
+	padding-top: ($blueprint-grid-margin * 2);
+	
+	&.half {
+	  @include column(($blueprint-grid-columns / 2) - 2);	
+	  @include prepend(1);
+	  @include append(1);
+      &.last {
+        @include column(($blueprint-grid-columns / 2) - 2, true)
+      }		
+	}
+	
+	&.third {
+	  @include column(($blueprint-grid-columns / 3) - 2);	
+	  @include prepend(1);
+	  @include append(1);
+      &.last {
+        @include column(($blueprint-grid-columns / 3) - 2, true)
+      }		
+	}
+	
+	&.two-thirds {
+	  @include column(($blueprint-grid-columns / 3) * 2 - 2);	
+	  @include prepend(1);
+	  @include append(1);
+      &.last {
+        @include column(($blueprint-grid-columns / 3) * 2 - 2, true)
+      }		
+	}		
+  }
+}

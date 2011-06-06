@@ -1,0 +1,19 @@
+body.one-col {
+  nav {
+	ul {
+		font-size: 1.1em;
+    	@include horizontal-list;
+		li {			
+			padding-left: $blueprint-grid-margin;
+			padding-right: $blueprint-grid-margin;			
+			a:link, a:visited, a:hover, a:visited {
+				color: #BFBFBF;
+				text-decoration: none;
+				&:hover {
+					color: #FFF;
+				}
+			}
+		}
+	}
+  }
+} 

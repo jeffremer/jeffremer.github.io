@@ -1,0 +1,17 @@
+body.bp {
+	#content {
+		h1, h2, h3 {
+			@include box-shadow(rgba(255, 255, 255, 0.07) 0 1px 0);
+			border-bottom: 2px solid #121212;
+			line-height: 1.4em;
+		}		
+	}
+
+	.center {
+		text-align: center;
+	}
+	
+	.no-margin {
+		margin: 0;
+	}
+}

@@ -1,73 +1,17 @@
-/* Welcome to Compass.
- * In this file you should write your main styles. (or centralize your imports)
- * Import this file using the following HTML or equivalent:
- * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+// This import applies a global reset to any page that imports this stylesheet.
+@import "blueprint/reset";
 
-body {
-	background-color:#f2f2f2;
-	color:#3c3c3c;
-	font-size:62.5%;
-	font-family:Palatino, Georgia, serif;
-}
+// To configure blueprint, edit the partials/base.sass file.
+@import "partials/base";
 
-#header, #main, #footer {
-    width: 720px;
-    margin: 20px auto;
-}
+// Import all the default blueprint modules so that we can access their mixins.
+@import "blueprint";
+@import "blueprint/colors";
 
-h1 {
-	font-size: 3.2em;
-}
-h2 {
-	font-size: 2.6em;
-}
-h3 {
-	font-size: 1.8em;
-}
-h4 {
-	font-size: 1.6em;
-}
-
-hr {
-	margin: 2em;
-}
-
-p, li {
-	font-size: 1.6em;
-	line-height: 1.65em;
-}
-
-p {
-	line-height: 1.7em;
-}
-
-pre {
-	padding: 1em;
-	border: 1px solid #CECECE;
-	background-color: white;
-	font-size: 1.3em;
-}
-
-a {
-	text-decoration: none;
-}
-
-ul {
-	margin-left: 1em;
-	list-style-type: disc;
-}
-
-#header {
-	h1 {
-		font-size: 48px;
-	}
-}
-
-#links {
-	float: right;
-	display: inline;
-	li {
-		display: inline;
-		margin-right: 10px;		
-	}
-}
+// Combine the partials into a single screen stylesheet.
+@import "partials/page";
+@import "partials/form";
+@import "partials/one_col";
+@import "partials/two_col";
+@import "partials/typography";
+@import "partials/navigation";

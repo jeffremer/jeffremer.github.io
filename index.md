@@ -3,25 +3,60 @@ layout: default
 title: Jeff Remer
 ---
 
-Hello, my name is <a href="http://jeffremer.com" title="Jeff Remer">Jeff Remer</a> and I am software engineer at <a href="http://flite.com" title="Flite, Inc.">Flite, Inc</a>.
+<h1 class="center no-margin">Jeff Remer</h1>
 
-Outside of the office I enjoy working on my own code.
+<h2 class="center">Software Engineer <span class="alt">&amp;</span> Web Developer</h2>
 
-Ruby (Sinatra, Rails), Javascript (browser, mobile, node.js), and Objective C (iOS, desktop Cocoa) are a few of my favorite languages.
+<div class="inset dark round third">
+	<h3>On the Internet</h3>
+	<ul>
+		<li>
+			<a href="http://github.com/jeffremer" title="GitHub" target="_blank">GitHub</a>
+		</li>
+		<li>
+			<a href="http://coderwall.com/jeffremer" title="Coderwall" target="_blank">Coderwall</a>
+		</li>
+		<li>
+			<a href="http://www.linkedin.com/in/jeffremer" title="Linked In" target="_blank">LinkedIn</a>
+		</li>
+		<li>
+			<a href="http://blog.jeffremer.com" title="Blog" target="_blank">Blog</a>
+		</li>
+		<li>
+			<a href="http://twitter.com/jeffremer" title="Twitter" target="_blank">Twitter</a>
+		</li>
+		<li>
+			<a href="http://facebook.com/jeffremer" title="Facebook" target="_blank">Facebook</a>
+		</li>
+		<li>
+			<a href="http://flickr.com/photos/jeffremer" title="Flickr" target="_blank">Flickr</a>
+		</li>				
+	</ul>
+</div>
+
+<div class="inset dark round two-thirds last">
+	<h3>Recent Projects</h3>
+	<dl>
+		<dt>
+			<a href="http://jeffremer.com/muni" title="Muni" target="_blank">Muni</a>
+		</dt>
+		<dd>
+			Ruby gem for consuming the SF Muni NextBus API
+		</dd>
 		
-Here is a small sample of some recent projects.
-
-* [Scrumy Client](http://jeffremer.com/scrumy-client)
-
-> A Ruby REST client wrapper for the [Scrumy](http://apidoc.scrumy.com) REST API.
-> This is mostly an experiment in metaprogramming.  The REST resources are specified
-> in a DSL. The library imports the DSL, then dynamically creates and instantiate classes
-> and objects of the right type depending on the requested resource.
-
-* [Distiller](https://github.com/jeffremer/Distiller)
-
-> A javascript aware content proxy.  This node.js based, (somewhat) RESTful API downloads the 	
-> content from a URL and runs given portion of javascript on the contents - assign your 
-> results to a special variable to output the transformation.
-
-> [Distill.me](http://distill.me) is running on [Duostack](http://duostack.com).	 	
+		<dt>
+			<a href="http://jeffremer.com/scrumy-client" title="Scrumy Client" target="_blank">Scrumy Client</a>
+		</dt>
+		<dd>
+			Ruby gem for consuming the Scrumy REST API
+		</dd>
+		
+		<dt>
+			<a href="http://github.com/jeffremer/Distiller" title="Distiller" target="_blank">Distiller</a>
+		</dt>
+		<dd>
+			Javascript-aware Node.js content proxy running at
+			<a href="http://distill.me" title="distill.me" target="_blank">distill.me</a>
+		</dd>
+	</dl>
+</div>

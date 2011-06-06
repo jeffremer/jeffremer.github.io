@@ -1,0 +1,14 @@
+@import "compass/typography/lists/horizontal-list";
+
+body.one-col {
+  #container {
+    @include container;
+  }
+  #header, #footer, nav {
+    @include column($blueprint-grid-columns);
+  }
+  #content {
+    $content-columns: $blueprint-grid-columns;
+    @include column($content-columns, true);
+  }	
+}
