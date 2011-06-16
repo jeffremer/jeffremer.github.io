@@ -15,11 +15,10 @@ body.bp {
   background-color: $blueprint-background-color;
 
   .inset {
-	@include box-shadow(rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset);
 	@include min-height(230px);
 
 	&.dark {
-	  background-color: #202020;
+	  background-color: darken($blueprint-background-color, 5%);
 	}
 	&.round {
 		@include border-radius($default-border-radius)

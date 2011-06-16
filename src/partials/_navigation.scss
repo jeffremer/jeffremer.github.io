@@ -1,7 +1,8 @@
 body.one-col {
   nav {
 	ul {
-		font-size: 1.1em;
+		float: right;
+		font-size: 1.2em;
     	@include horizontal-list;
 		li {			
 			padding-left: $blueprint-grid-margin;
@@ -10,7 +11,7 @@ body.one-col {
 				color: #BFBFBF;
 				text-decoration: none;
 				&:hover {
-					color: #FFF;
+					color: #666;
 				}
 			}
 		}

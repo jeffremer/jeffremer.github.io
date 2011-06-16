@@ -3,10 +3,6 @@ layout: default
 title: Jeff Remer
 ---
 
-<h1 class="center no-margin">Jeff Remer</h1>
-
-<h2 class="center">Software Engineer <span class="alt">&amp;</span> Web Developer</h2>
-
 <div class="inset dark round third">
 	<h3>On the Internet</h3>
 	<ul>

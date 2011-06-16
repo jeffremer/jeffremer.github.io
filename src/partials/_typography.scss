@@ -1,10 +1,14 @@
 body.bp {
 	#content {
-		h1, h2, h3 {
+		h1, h2 {
 			@include box-shadow(rgba(255, 255, 255, 0.07) 0 1px 0);
-			border-bottom: 2px solid #121212;
+			border-top: 4px solid $quiet-color;
 			line-height: 1.4em;
-		}		
+		}
+		
+		h3 + h4 {
+			float: right;
+		}
 	}
 
 	.center {

@@ -2,4 +2,8 @@
 
 //Recommended Blueprint configuration with scoping and semantic layout:
 body.bp {
-  @include blueprint-print(true); }
+  @include blueprint-print(true);
+	nav {
+		display: none;
+	}
+}
