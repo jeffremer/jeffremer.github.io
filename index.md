@@ -34,6 +34,13 @@ title: Jeff Remer
 	<h3>Recent Projects</h3>
 	<dl>
 		<dt>
+			<a href="http://jeffremer.com/elephant.js" title="Elephant.js" target="_blank">Elephant.js</a>
+		</dt>
+		<dd>
+			JavaScript localStorage wrapper library
+		</dd>
+
+		<dt>
 			<a href="http://jeffremer.com/muni" title="Muni" target="_blank">Muni</a>
 		</dt>
 		<dd>
@@ -53,6 +60,13 @@ title: Jeff Remer
 		<dd>
 			Javascript-aware Node.js content proxy running at
 			<a href="http://distill.me" title="distill.me" target="_blank">distill.me</a>
+		</dd>
+		
+		<dt>
+			<a href="https://github.com/ashleyshimabuku/normal-matrices" title="Normal Matrices" target="_blank">Normal Matrices</a>
+		</dt>
+		<dd>
+			Computation algebra/algebraic geometry project
 		</dd>
 	</dl>
 </div>

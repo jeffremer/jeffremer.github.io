@@ -1,10 +1,8 @@
----
-layout: default
-title: Jeff Remer - Resumé
-class: resume
----
+Jeff Remer
+===========
 
-Download this resumé as [plaintext](/resume.md.txt) or a [PDF](/resume.pdf).
+Software Engineer & Web Developer
+----------------------------------
 
 * [Website](http://jeffremer.com)
 * [Email](jeff@threestarchina.com)

@@ -1,14 +1,46 @@
 body.bp {
-	#content {
-		h1, h2 {
-			@include box-shadow(rgba(255, 255, 255, 0.07) 0 1px 0);
-			border-top: 4px solid $quiet-color;
-			line-height: 1.4em;
+	&.resume #content {
+		h1 {
+			font-size: 1.5em;
 		}
 		
-		h3 + h4 {
-			float: right;
+		h2 {
+			font-size: 1.3em;
 		}
+		
+		h3 {
+			font-size: 1.0em;
+		}
+		
+		p + p {
+			text-indent: inherit;
+			margin-top: 1.3em;
+		}
+	}
+	
+	#content {
+		h1, h2, h3 {
+			line-height: 1.4em;
+			font-weight: bold;
+			margin-top: 1.3em;
+			padding-top: 0.5em;
+			&:first-child {
+				margin-top: 0;
+			}			
+		}
+		
+		h3 {
+			margin-top: 1.0em;
+		}
+		
+		h1 {
+			border-top: 4px solid $quiet-color;
+		}
+
+		h2 {
+			border-top: 4px solid $quieter-color;
+		}
+		
 	}
 
 	.center {

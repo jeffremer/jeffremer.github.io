@@ -3,26 +3,36 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<title>
-			Jeff Remer - {{ page.title }}
+			Jeff Remer - {{page.title}}
 		</title>
 		<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 		<link href="/stylesheets/print.css" media="print" rel="stylesheet" type="text/css" />
+		<!--[if lt IE 8]>
+		    <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+		<![endif]-->
 	</head>
-	<body>
-		<div id="header">
-			<h1>Jeff Remer</h1>
-		</div>
-		<div id="main">
+	<body class="bp one-col {{page.class}}">
+		<div id="container"> 
+			<nav>
+				<ul>
+					<li><a href="/" title="Home">Home</a></li>
+					<!-- <li><a href="/projects.html" title="Projects">Projects</a></li>
+					<li><a href="/articles.html" title="Articles">Articles</a></li> -->
+					<li><a href="/bio.html" title="Bio">Bio</a></li>
+					<li><a href="/resume.html" title="Resumé">Resumé</a></li>					
+				</ul>
+			</nav>
+			
+			<div id="header">
+				<h1 class="center no-margin">Jeff Remer</h1>
+				<h2 class="center">Software Engineer <span class="alt">&amp;</span> Web Developer</h2>
+			</div>
+			
+			<div id="content">
 				{{ content }}
-		</div>
-		<div id="footer">
-			<ul id="links">
-				<li>
-					<a href="http://jeffremer.com" title="Home">
-						Home
-					</a>
-				</li>
-			</ul>
+			</div>
+			<div id="footer">   		
+			</div>
 		</div>
 	</body>
 </html>

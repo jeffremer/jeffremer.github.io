@@ -1,9 +1,48 @@
 @import "blueprint";
+@import "compass/typography/lists/horizontal-list";
 
 //Recommended Blueprint configuration with scoping and semantic layout:
 body.bp {
-  @include blueprint-print(true);
+	@include blueprint-print(true);
+	
 	nav {
 		display: none;
+	}
+	
+	font-size: 75%;
+
+	#header {
+		h1 {
+			float:left;
+			font-size: 1.5em;
+		}
+		h2 {
+			float:right;
+			margin: 1em;
+		}
+	}
+	#content {
+		clear: both;
+	}
+	
+	h1, h2 {
+		page-break-before: auto;
+	}
+
+	a:link,
+	a:visited {
+		text-decoration: none;
+		color: #000;
+	}
+	a:link:after,
+	a:visited:after {
+	  content: " [" attr(href) "] ";
+	  font-size: 90%;
+	}
+	
+	&.resume {
+		#content p:first-child{
+			display: none;
+		}
 	}
 }

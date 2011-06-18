@@ -8,15 +8,16 @@ $blueprint-grid-margin: 10px;
 $blueprint-grid-width: ($blueprint-container-size + $blueprint-grid-margin) / $blueprint-grid-columns - $blueprint-grid-margin;
 
 // Typography
-/*$blueprint-font-family: 'Lucida Grande', Arial, sans-serif;*/
+$blueprint-font-family: 'Helvetica', Arial, sans-serif;
 $blueprint-fixed-font-family: "andale mono", "lucida console", monospace;
 $blueprint-font-size: 15px;
 
 // Colors
 $font-color: #111;
-$blueprint-background-color: #F9F9F9;
+$blueprint-background-color: #F8F8F8;
 $link-color: #307EB6;
-$quiet-color: #E0E0E0;
+$quiet-color: #AAA;
+$quieter-color: #E0E0E0;
 
 // Borders
 $default-border-radius: 5px;

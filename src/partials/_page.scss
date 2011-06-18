@@ -15,7 +15,12 @@ body.bp {
   background-color: $blueprint-background-color;
 
   .inset {
-	@include min-height(230px);
+	h1,h2,h3 {
+		margin: 0 0 0.5em 0 !important;
+		padding: 0 !important;
+	}
+
+	@include min-height(300px);
 
 	&.dark {
 	  background-color: darken($blueprint-background-color, 5%);
