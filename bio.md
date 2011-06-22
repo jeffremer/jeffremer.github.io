@@ -68,7 +68,7 @@ Recent Projects
 	</dd>
 
 	<dt>
-		<a href="http://widgetbox/mobile/builder" title="Widgetbox Mobile Apps" target="_blank">Widgetbox Mobile Apps</a>
+		<a href="http://widgetbox.com/mobile/builder" title="Widgetbox Mobile Apps" target="_blank">Widgetbox Mobile Apps</a>
 	</dt>
 	<dd>
 		HTML5/CSS3/Javascript custom Mobile App builder and runtime built using Sencha Touch.
