@@ -27,8 +27,11 @@ projects.
 
 # Experience
 
+## Strava - San Francisco, CA
+### Software Engineer - August 2011 to Present
+
 ## Flite - San Francisco, CA (formerly Widgetbox)
-### Software Engineer - July 2009 to Present
+### Senior Software Engineer - July 2009 to Present
 
 *Projects & Responsibilites*
 

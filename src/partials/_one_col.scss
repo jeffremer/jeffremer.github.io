@@ -1,4 +1,8 @@
 body.one-col {
+  p + p {
+	text-indent: 0;
+	margin-top: -0.5em;
+  }
   #container {
     @include container;
   }
