@@ -7,5 +7,5 @@ Posts
 ======
 
 {% for post in site.posts %}
-	* {{post.date}} - [{{post.title}}]({{post.url}})
+* {{post.date}} - [{{post.title}}]({{post.url}})
 {% endfor %}
