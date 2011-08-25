@@ -13,7 +13,7 @@ JavaScript World Domination, Day 5,935
 by [Brendan Eich](http://brendaneich.com/)
 ------------------------------------------
 
-2011-08-16, TwitterHQ, [http://sftechtalks.com](http://sftechtalks.com/)
+2011-08-16, TwitterHQ, [http://sftechtalks.com](http://sftechtalks.com/) - [Video of both talks](http://vimeo.com/28128002)
 
 More [presentations](http://brendaneich.com/presentations/) by Brendan Eich.
 

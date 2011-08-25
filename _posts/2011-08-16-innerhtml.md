@@ -12,7 +12,7 @@ innerHTML's Storied Past & HTML's Shiny Future
 by [Paul Irish](http://paulirish.com)
 --------------
 
-2011-08-16, TwitterHQ, [http://sftechtalks.com](http://sftechtalks.com/)
+2011-08-16, TwitterHQ, [http://sftechtalks.com](http://sftechtalks.com/) - [Video of both talks](http://vimeo.com/28128002)
 
 The [slides are here](http://dl.dropbox.com/u/39519/talks/html2anddom/index.html#1).
 
