@@ -7,8 +7,6 @@ class: resume
 Download this resumé as [plaintext](/resume.md.txt) or a [PDF](/resume.pdf).
 
 * [Website](http://jeffremer.com)
-* [Email](jeff@threestarchina.com)
-* [Phone](tel:415-713-1529)
 * [GitHub](http://github.com/jeffremer)
 * [LinkedIn](http://www.linkedin.com/in/jeffremer)
 
