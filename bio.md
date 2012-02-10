@@ -2,6 +2,8 @@
 layout: default
 title: Jeff Remer - Bio
 ---
+
+Not for hire: recruiters, please do not contact me.
     
 Background
 ----------

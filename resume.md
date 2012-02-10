@@ -4,6 +4,8 @@ title: Jeff Remer - Resumé
 class: resume
 ---
 
+Not for hire: recruiters, please do not contact me.
+
 Download this resumé as [plaintext](/resume.md.txt) or a [PDF](/resume.pdf).
 
 * [Website](http://jeffremer.com)
