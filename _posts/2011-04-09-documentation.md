@@ -9,7 +9,7 @@ date: 2011-04-09-14:45
 
 # Writing Great Documentation
 
-### Jacob Kaplan Ross (Django) (Saturday, 2:45pm)
+### Jacob Kaplan-Moss (Django) (Saturday, 2:45pm)
 
 [Slides here](http://www.slideshare.net/jacobian/writing-great-documentation-codeconf-2011).
 
