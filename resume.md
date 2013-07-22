@@ -6,29 +6,23 @@ class: resume
 
 Not for hire: recruiters, please do not contact me.
 
-Download this resumé as [plaintext](/resume.md.txt) or a [PDF](/resume.pdf).
-
 * [Website](http://jeffremer.com)
 * [GitHub](http://github.com/jeffremer)
 * [LinkedIn](http://www.linkedin.com/in/jeffremer)
 
 # Background
 
-I am a software engineer and web developer with expertise in a array of web technologies.
-While most of my professional experience is with Java and related J2EE packages, I
-enjoy staying up to date on emerging tools and languages. Some of favorite languages are
-ruby (CLI, Rails, Sinatra), JavaScript (Node.js, browser), and Objective-C (iOS, Desktop Cocoa).
-Most projects I create outside of work use one of those languages and I enjoy creating new
-projects to learn new technologies. I have made some minor open source software contributions
-and maintain a couple of my own small open source projects.
-
-See my [bio](http://jeffremer.com/bio.html) for more background and an explanation of specific
-projects.
+I am an iOS engineer with a diverse web engineering background.
 
 # Experience
 
 ## Strava - San Francisco, CA
 ### Software Engineer - August 2011 to Present
+
+*Projects & Responsibilites*
+
+* iOS engineer: responsible for bringing a poorly reviewed, contractor built V1 app to V2 which increased average rating from less than three stars to five stars in a matter of months. Strava Cycling and Run for iOS have over a million downloads, have been featured numerous times, and a demo version of our app was featured in Apple Store locations on in-store iPhones.
+* Ruby engineer: as part of writing the V2 iOS apps I lead the creation of a new REST API which is now used in-house by our mobile clients as well as many third-party developers and partners.
 
 ## Flite - San Francisco, CA (formerly Widgetbox)
 ### Senior Software Engineer - July 2009 to Present
