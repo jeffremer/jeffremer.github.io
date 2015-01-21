@@ -17,6 +17,7 @@ I am an iOS engineering manager and engineer with a diverse web engineering back
 # Experience
 
 ## Strava - San Francisco, CA
+
 ### Software Engineer - August 2011 to Present
 
 *Projects & Responsibilites*
@@ -26,6 +27,7 @@ I am an iOS engineering manager and engineer with a diverse web engineering back
 * Ruby on Rails Software Engineer: as part of writing the V2 iOS apps I lead the creation of a new REST API which is now used in-house by our mobile clients as well as many third-party developers and partners.
 
 ## Flite - San Francisco, CA (formerly Widgetbox)
+
 ### Senior Software Engineer - July 2009 to August 2011
 
 *Projects & Responsibilites*
@@ -44,6 +46,7 @@ I am an iOS engineering manager and engineer with a diverse web engineering back
 * Java/JSP, Spring, Stripes
 
 ## Apeer - San Francisco, CA
+
 ### Web Developer, iOS/Desktop UX Designer - January 2009 to June 2009
 
 *Projects & Responsibilites*
@@ -58,6 +61,7 @@ I am an iOS engineering manager and engineer with a diverse web engineering back
 * Interface Builder, XCode
 
 ## Keibi - San Francisco, CA
+
 ### Software Engineer - July 2007 to December 2008
 
 *Projects & Responsibilites*
