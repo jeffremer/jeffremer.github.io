@@ -12,7 +12,7 @@ Not for hire: recruiters, please do not contact me.
 
 # Background
 
-I am an iOS engineer with a diverse web engineering background.
+I am an iOS engineering manager and engineer with a diverse web engineering background.
 
 # Experience
 
@@ -21,17 +21,18 @@ I am an iOS engineer with a diverse web engineering background.
 
 *Projects & Responsibilites*
 
-* iOS engineer: responsible for bringing a poorly reviewed, contractor built V1 app to V2 which increased average rating from less than three stars to five stars in a matter of months. Strava Cycling and Run for iOS have over a million downloads, have been featured numerous times, and a demo version of our app was featured in Apple Store locations on in-store iPhones.
-* Ruby engineer: as part of writing the V2 iOS apps I lead the creation of a new REST API which is now used in-house by our mobile clients as well as many third-party developers and partners.
+* iOS Technical Lead: in addition to regular engineering I lead a team of half a dozen software engineers through multiple concurrent features per release, handle release planning, organaization, builds, and continue to grow our team.
+* iOS Software Engineer: responsible for bringing a poorly reviewed, contractor built V1 app to V2 which increased average rating from less than three stars to five stars in a matter of months. Strava Cycling and Run for iOS have over a million downloads, have been featured numerous times, and a demo version of our app was featured in Apple Store locations on in-store iPhones.
+* Ruby on Rails Software Engineer: as part of writing the V2 iOS apps I lead the creation of a new REST API which is now used in-house by our mobile clients as well as many third-party developers and partners.
 
 ## Flite - San Francisco, CA (formerly Widgetbox)
-### Senior Software Engineer - July 2009 to Present
+### Senior Software Engineer - July 2009 to August 2011
 
 *Projects & Responsibilites*
 
-* Flexible HTML5/CSS3 single page application JavaScript MVC [ad creative runtime](http://www.flite.com/ad-product-lift-off)
-* [HTML5/CSS3 Mobile App builder](http://widgetbox.com/mobile/builder) and runtimes using Sencha Touch and jQTouch
-* [Stripes web application](http://widgetbox.com) features and maintenance
+* Flexible HTML5/CSS3 single page application JavaScript MVC ad creative runtime
+* HTML5/CSS3 Mobile App builder and runtimes using Sencha Touch and jQTouch
+* Stripes web applicationhttp://widgetbox.com features and maintenance
 * Internal build and productivity tools (CLI, TextMate bundles, gems) built in ruby and node.js
 
 *Technologies*
@@ -72,12 +73,13 @@ I am an iOS engineer with a diverse web engineering background.
 
 # Publications
 
-* [Widgetbox, YQL, and Pipes](http://developer.yahoo.com/blogs/ydn/posts/2010/06/widgetbox_yql_and_pipes/),
+* [Widgetbox, YQL, and Pipes](https://developer.yahoo.com/blogs/ydn/widgetbox-yql-pipes-8016.html),
 guest blog post on the Yahoo Developer Network blog.
 * [US 2008/0115124 A1](http://www.google.com/patents?id=HpiqAAAAEBAJ) 2006 US patent application, sold to IBM in 2010.
 
 # Conferences
 
+* WWDC 2012, 2013, 2014 attendee
 * iOSDevCamp 2011, 2010 (presenter hackathon project)
 * Hack for Change 2011 (competitor)
 * CodeConf 2011 (attendee)
